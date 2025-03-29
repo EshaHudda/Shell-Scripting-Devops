@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Bash Script",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "/mnt/c/Users/eshac/Shell Scripting/script3.sh"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
